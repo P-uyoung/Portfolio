@@ -44,8 +44,7 @@
 >개발 기간: 2022.08.15 ~ 2022.09.18 (한달)
 >  
 >기술 스택:  
->python3 / tensorflow / pytorch 
->tensorflow lite / linux 
+>python3 / tensorflow / pytorch / tensorflow lite / linux 
 >
 >[프로젝트 상세 설명](https://github.com/P-uyoung/Ambient_RPPG) 참고
 
