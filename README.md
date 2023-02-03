@@ -1,17 +1,17 @@
-# 한정수 포트폴리오
->캐치 프레이즈
+# 박우영 포트폴리오
+> 데이터 사이언티스트, 리서치 엔지니어
 
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+
 
 </br>
 
 ## :pushpin: Contact
-- 이메일: rhep0828@gmail.com
-- 블로그: https://ryan-han.com
-- 깃헙: https://github.com/integerous
+- 이메일: uyoung@snu.ac.kr
+- 기술 블로그: https://p-uyoung.github.io/
+- 깃허브: https://github.com/P-uyoung
 
 </br>
 
