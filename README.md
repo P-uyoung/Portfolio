@@ -8,6 +8,15 @@
 
 </br>
 
+## :pushpin: Education
+
+(2021.09-2023.08 졸업 예정) 서울대 건설환경공학부 구조재료 연구실 석사과정 
+
+(2016.03-2021.07) 숭실대 건축공학부 & (복수전공)컴퓨터공학부 학사 졸업
+
+
+</br>
+
 ## :pushpin: Contact
 - 이메일: uyoung@snu.ac.kr
 - 기술 블로그: https://p-uyoung.github.io/
