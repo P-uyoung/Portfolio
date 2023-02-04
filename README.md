@@ -1,26 +1,21 @@
-# 박우영 포트폴리오
-> 데이터 사이언티스, AI 리서치
+<p align="center">
+  <h1 align="center">Woo-young's Portfolio ✨</h1>
 
-</br>
+</p>
 
-## :pushpin: Intro
+## Intro ⭐️
 
-머신러닝을 이용한 구조재료 특성에 대해 연구하였습니다. 데이터베이스 구축 및 데이터 전처리 과정 이후 모델링을 통한 AI 리서치를 수행하였습니다. 
-추가적으로, API 서버 개발에 대해서 공부 중입니다.
+- (석사과정) 머신러닝을 이용한 구조재료 특성에 대해 연구하였습니다. 
+- (현재) 데이터베이스 모델링 및 AI 리서치를 수행합니다. 
+- 추가적으로, API 서버 개발에 대해서 공부 중입니다.
 
-
-</br>
-
-## :pushpin: Education
+## Education 🍪
 
 (2021.09-2023.08 졸업 예정) 서울대 건설환경공학부 구조재료 연구실 석사과정 
 
 (2016.03-2021.07) 숭실대 건축공학부 & (복수전공)컴퓨터공학부 학사 졸업
 
-
-</br>
-
-## :pushpin: Projects
+## Projects 🌳
 ### 1. Xcorps_SOC
 >토양의 질(soil organic carbon, SOC) 실시간 모니터링 (팀프로젝트)  
 >개발 기간: 2022.05.31 ~ 2022.11.31 (6개월)  
@@ -43,10 +38,19 @@
 
 ---
 
+## Tech stack 🔧
+  <span><img src="https://img.shields.io/badge/Python-05122A?style=flat-square&logo=python"/></span>
+  <span><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=Java"></span>
+  <span><img src="https://img.shields.io/badge/Matlab-990000?style=flat-square&logo=matlab"></span>
+  <span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B"></span>
+  <span><img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"></span>
+  <span><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"></span>
+  <span><img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion"></span> 
 
-</br>
-
-## :pushpin: Contact
+## Contact 🔗
 - 이메일: uyoung@snu.ac.kr
 - 기술 블로그: https://p-uyoung.github.io/
 - 깃허브: https://github.com/P-uyoung
