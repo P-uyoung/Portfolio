@@ -1,5 +1,5 @@
 # 박우영 포트폴리오
-> 데이터 사이언티스트, 리서치 엔지니어
+> 데이터 사이언티스, AI 리서치
 
 </br>
 
@@ -17,13 +17,6 @@
 
 (2016.03-2021.07) 숭실대 건축공학부 & (복수전공)컴퓨터공학부 학사 졸업
 
-
-</br>
-
-## :pushpin: Contact
-- 이메일: uyoung@snu.ac.kr
-- 기술 블로그: https://p-uyoung.github.io/
-- 깃허브: https://github.com/P-uyoung
 
 </br>
 
@@ -49,4 +42,12 @@
 >[프로젝트 상세 설명](https://github.com/P-uyoung/Ambient_RPPG) 참고
 
 ---
+
+
+</br>
+
+## :pushpin: Contact
+- 이메일: uyoung@snu.ac.kr
+- 기술 블로그: https://p-uyoung.github.io/
+- 깃허브: https://github.com/P-uyoung
 
