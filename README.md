@@ -51,6 +51,7 @@
   <span><img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"></span>
   <span><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"></span>
   <span><img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion"></span> 
+  <span><img src="https://img.shields.io/badge/-Latex-008080?style=flat&logo=LaTex"></span>
 
 ## Contact 🔗
 - 이메일: uyoung@snu.ac.kr
