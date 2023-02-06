@@ -3,20 +3,22 @@
 
 </p>
 
-## Intro ⭐️
+## 1. Intro ⭐️
 
 - (석사과정) 머신러닝을 이용한 구조재료 특성에 대해 연구하였습니다. 
 - (현재) 데이터베이스 모델링 및 AI 리서치를 수행합니다. 
 - 추가적으로, API 서버 개발에 대해서 공부 중입니다.
+<br/>
 
-## Education 🍪
+## 2. Education 🍪
 
 - 2021.09-2023.08 : 서울대 건설환경공학부 구조재료 연구실 석사과정 졸업예정  
 
 - 2016.03-2021.07 : 숭실대 건축공학부 & (복수전공)컴퓨터공학부 학사 졸업
+<br/>
 
-## Projects 🌳
-### 1. (팀프로젝트) Xcorps_SOC
+## 3. Team Projects 🌳
+3.1. Xcorps_SOC
 >토양의 질(soil organic carbon, SOC) 실시간 모니터링  
 >개발 기간: 2022.05.31 ~ 2022.11.31 (6개월)  
 >  
@@ -27,7 +29,7 @@
 
 ---
 
-### 2. (팀프로젝트) AmbientAI_rPPG
+3.2.AmbientAI_rPPG
 >(헬스케어) 영상기반 심박수 원격 측정  
 >개발 기간: 2022.08.15 ~ 2022.09.18 (한달)
 >  
@@ -35,8 +37,22 @@
 >python3 / tensorflow / pytorch / tensorflow lite / linux 
 >
 >[프로젝트 상세 설명](https://github.com/P-uyoung/Ambient_RPPG) 참고
+<br/>
 
+## 4. Personal Projects 🌵
+4.1. PhotometricStereo 직접 구현
+>
 ---
+4.2. Prediction of material reactivity
+>
+---
+4.3. Prediction of material strength
+>
+---
+4.4. Estimation of CNT
+
+<br/>
+
 
 ## Tech stack 🔧
   <span><img src="https://img.shields.io/badge/Python-05122A?style=flat-square&logo=python"/></span>
