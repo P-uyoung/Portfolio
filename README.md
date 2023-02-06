@@ -73,10 +73,18 @@
 > Jongmin Kim, Jeonvgsik Pyo, Sejin Kim, **Woo Young Park**, Hyung-Sin Kim  
 > *22 International Biomedical Engineering Symposium, Incheon, Korea **Nov, 2022***
 
-2. **Practical Improvements of Soil Organic Carbon Sensing with Machine Learning**
-> Jongmin Kim, Jeonvgsik Pyo, Sejin Kim, **Woo Young Park**, Hyung-Sin Kim  
-> *Manuscript 
+2. [Prediction of the Reactivity of Fly Ashes Using Machine Learning](https://github.com/P-uyoung/Portfolio/blob/main/conference_paper/2022_fall.pdf)
+> **Woo Young Park**, Juhyuk Moon   
+> *2022 Fall Korea Concrete Institute Conference, Jeju, Korea **Nov, 2022***
 
+4. [Prediction of Reactivity of Domestic Fly Ashes Using Machine Learning](https://github.com/P-uyoung/Portfolio/blob/main/conference_paper/2022_spring.pdf)
+> **Woo Young Park**, Juhyuk Moon   
+> *2022 Spring Korea Concrete Institute Conference, Jeju, Korea **May, 2022***
+
+4. [Prediction of Amorphous Contents of Domestic Fly Ashes Using Machine Learning](https://github.com/P-uyoung/Portfolio/blob/main/conference_paper/2021_fall.pdf)
+> **Woo Young Park**, Juhyuk Moon   
+> *2021 Fall Korea Concrete Institute Conference, Gyeongju, Korea **Nov, 2021***
+<br/>
 
 ## Tech stack 🔧
   <span><img src="https://img.shields.io/badge/Python-05122A?style=flat-square&logo=python"/></span>
