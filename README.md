@@ -51,7 +51,6 @@
 > 기간 : 2021.02 ~ 2021.04 (3개월)   
 > 기술 스택 : Python3 / Tensorflow  
 > [프로젝트 상세 설명](https://github.com/P-uyoung/AI-research/tree/master/Concrete) 참고
-
 <br/>
 
 ## 5. Publication List 📗 
@@ -66,7 +65,6 @@
 3. **Practical Improvements of Soil Organic Carbon Sensing with Machine Learning**
 > Dong-Yoon Kim, **Woo-Young Park**, Jin-Seong Kim, Su-Min Oh, Seong-Woo Kim   
 > *Manuscript in preparation.*
-
 <br/>
 
 ## 6. Conference List 📘 
@@ -103,7 +101,6 @@
   <span><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"></span>
   <span><img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion"></span> 
   <span><img src="https://img.shields.io/badge/-Latex-008080?style=flat&logo=LaTex"></span>
-
 <br/>
 
 ## Activities 📠
@@ -114,7 +111,6 @@
 2. 교육조교(Teaching Assistance)  
 > 기간 : 2022.03 ~ 2022.06  
 > 과목명 : 재료역학 및 실습 (서울대 건설환경공학부 전공과목)  
-
 <br/>
 
 ## Awards and Recognitions 🎁
