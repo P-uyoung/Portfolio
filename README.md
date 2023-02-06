@@ -63,7 +63,7 @@
 > *Manuscript in preparation.*
 
 3. **Practical Improvements of Soil Organic Carbon Sensing with Machine Learning**
-> Dong-Yoon Kim, **Woo-Young Park**, Jin-Seong Kim, Su-Min Oh, Seong-Woo Kim
+> Dong-Yoon Kim, **Woo-Young Park**, Jin-Seong Kim, Su-Min Oh, Seong-Woo Kim   
 > *Manuscript in preparation.*
 
 <br/>
