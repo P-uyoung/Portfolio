@@ -18,7 +18,7 @@
 <br/>
 
 ## 3. Team Projects 🌳
-3.1. Xcorps_SOC
+1. Xcorps_SOC
 >토양의 질(soil organic carbon, SOC) 실시간 모니터링  
 >개발 기간: 2022.05.31 ~ 2022.11.31 (6개월)  
 >  
@@ -29,7 +29,7 @@
 
 ---
 
-3.2.AmbientAI_rPPG
+2. AmbientAI_rPPG
 >(헬스케어) 영상기반 심박수 원격 측정  
 >개발 기간: 2022.08.15 ~ 2022.09.18 (한달)
 >  
@@ -40,18 +40,42 @@
 <br/>
 
 ## 4. Personal Projects 🌵
-4.1. PhotometricStereo 직접 구현
+1. PhotometricStereo 직접 구현
 >
 ---
-4.2. Prediction of material reactivity
+2. Prediction of material reactivity
 >
 ---
-4.3. Prediction of material strength
+3. Prediction of material strength
 >
 ---
-4.4. Estimation of CNT
+4. Estimation of CNT
 
 <br/>
+
+## 5. Publication List 📗 
+1. **Machine learning based reactivity prediction of fly ash type F produced from South Korea**
+> **Woo-Young Park**, Juhyuk Moon  
+> submitted to ***International Journal of Concrete Structures and Materials***
+
+2. **Prediction of 2D Dispersion of Carbon Nanotubes in Hardened Cement Composite Using Deep Learning**
+> **Woo-Young Park**, Juhyuk Moon  
+> *Manuscript in preparation.*
+
+3. **Practical Improvements of Soil Organic Carbon Sensing with Machine Learning**
+> Dong-Yoon Kim, **Woo-Young Park**, Jin-Seong Kim, Su-Min Oh, Seong-Woo Kim
+> *Manuscript in preparation.*
+
+<br/>
+
+## 6. Conference List 📘 
+1. [Real-time Heart Rate Monitoring using Deep Learning Model Lightening Technique](https://github.com/P-uyoung/Portfolio/blob/main/conference_paper/rPPG.pdf)
+> Jongmin Kim, Jeonvgsik Pyo, Sejin Kim, **Woo Young Park**, Hyung-Sin Kim  
+> *22 International Biomedical Engineering Symposium, Incheon, Korea **Nov, 2022***
+
+2. **Practical Improvements of Soil Organic Carbon Sensing with Machine Learning**
+> Jongmin Kim, Jeonvgsik Pyo, Sejin Kim, **Woo Young Park**, Hyung-Sin Kim  
+> *Manuscript 
 
 
 ## Tech stack 🔧
