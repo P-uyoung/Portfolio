@@ -1,33 +1,41 @@
 <p align="center">
   <h1 align="center">Woo-young's Portfolio ✨</h1>
-
 </p>
 
-## 1. Intro ⭐️
-
-- (석사과정) 머신러닝을 이용한 구조재료 특성에 대해 연구하였습니다. 
-- (현재) 데이터베이스 모델링 및 AI 리서치를 수행합니다. 
-- 추가적으로, API 서버 개발에 대해서 공부 중입니다.
+## 1. Intro :sun_with_face:
+- (석사과정) `머신러닝을 이용한 구조재료` 특성에 대해 연구하였습니다.
+- (현재) `데이터 사이언스` 프로그래머입니다. 
+- 추가적으로, `API 서버 개발`에 대해서 공부 중입니다.
 <br/>
 
-## 2. Education 🍪
+## Activities  :full_moon_with_face:
+**1. `SK반도체` 공장 설계 (저진동 구조재료) 과제 진행**　　　　　　　　　　　　　　　　　　　　　　*( 2022.8 ~ 2023.2 )*   
+> ML을 활용하여 목표에 따른 (단가, 강도, 강성) 배합비 예측  
 
-- 2021.09-2023.08 : 서울대 건설환경공학부 구조재료 연구실 석사과정 졸업예정  
 
-- 2016.03-2021.07 : 숭실대 건축공학부 & (복수전공)컴퓨터공학부 학사 졸업
+**2. 교육조교(Teaching Assistance)**　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　*( 2022.3 ~ 2022.6 )*   
+> `우수 조교상` 수상  
+> 과목: 재료역학 및 실습
+<br/>
+
+## 2. Education :new_moon_with_face:
+
+- `서울대 건설환경공학부 석사`　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　*( 2021.9 ~ 2023.8 )*
+
+- 숭실대 건축공학부 & `(복수전공)컴퓨터공학부` 학사　　　　　　　　　　　　　　　　　　　　　*( 2016.3 ~ 2021.7 )*    
 <br/>
 
 ## 3. Team Projects 🌳
-1. Xcorps_SOC
->토양의 질(soil organic carbon, SOC) 예측 성능 개선  
->개발 기간: 2022.05.31 ~ 2022.11.31 (6개월)     
->기술 스택: Python3 / Pytorch / Html   
+**1. Xcorps_SOC (2022)**   
+>토양의 질(soil organic carbon, SOC) `예측 성능 개선`    
+>기술 스택: Python3 / Pytorch    
+>`논문 투고`  
 >[프로젝트 상세 설명](https://github.com/P-uyoung/X-Corps_Soil-detection) 참고
 
-2. AmbientAI_rPPG
+**2. AmbientAI_rPPG (2022)**   
 >(헬스케어) 영상기반 심박수 원격 측정  
->개발 기간: 2022.08.15 ~ 2022.09.18 (한달)  
->기술 스택: Python3 / Tensorflow / Pytorch / TensorflowLite / Linux   
+>기술 스택: Python3 / Tensorflow / Pytorch / TensorflowLite / Linux  
+>[데모영상](https://www.youtube.com/watch?v=GAX9GWvPWNs)    
 >[프로젝트 상세 설명](https://github.com/P-uyoung/Ambient_RPPG) 참고
 <br/>
 
@@ -103,16 +111,6 @@
   <span><img src="https://img.shields.io/badge/-Latex-008080?style=flat&logo=LaTex"></span>
 <br/>
 
-## Activities 📠
-1. SK반도체 공장 설계 (저진동 구조재료) 과제 진행   
-> 기간 : 2022.8 ~ 2023.02  
-> ML을 활용하여 목표에 따른 (단가, 강도, 강성) 배합비 예측   
-
-2. 교육조교(Teaching Assistance)  
-> 기간 : 2022.03 ~ 2022.06  
-> 과목명 : 재료역학 및 실습 (서울대 건설환경공학부 전공과목)  
-<br/>
-
 ## Awards and Recognitions 🎁
 1. 앰비언트 AI 컴피티션 대회 3등 입상
 > 수상날짜 : 2022-09
@@ -124,7 +122,7 @@
 <br/>
 
 ## Interests 💪
-수영🏊,  테니스🎾
+수영,  테니스
 <br/>
 
 ## Contact 🔗
