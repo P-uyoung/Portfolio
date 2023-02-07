@@ -42,24 +42,26 @@
 ## 4. Personal Projects 🌵
 <!-- 4. Estimation of CNT -->
 <!-- 5. (토이플젝) DB 모델링 -->
-1. PhotometricStereo 구현
-> OpenCV 라이브러리를 사용하지 않고 구현함.   
-> 기간 : 2022.06 ~ 2022.07 (한달)  
-> 기술 스택 : Matlab / Python3  
+1. PhotometricStereo 구현  
+> OpenCV 라이브러리를 사용하지 않고 `직접 구현`   
+> 기술 스택 : Matlab / Python3    
 > [코드 보기](https://github.com/P-uyoung/Computer-Vision/blob/main/photometricstereo.py)
 
-2. Prediction of Material Reactivity
-> 서울대 구조재료연구실 석사과정 연구주제 2   
-> 기간 : 2021.09 ~ 2022.04 (6개월)  
-> 기술 스택 : Python3 / Tensorflow  
+2. Prediction of Material Reactivity  
+> 앙상블 모델을 이용하여 `정해로 구할 수 없는 재료의 특성 예측`    
+> 기술 스택 : Python3 / Tensorflow     
 > [프로젝트 상세 설명](https://github.com/P-uyoung/AI-research/tree/master/Flyash) 참고
 
-3. Prediction of Material Strength
-> 서울대 구조재료연구실 석사과정 연구주제 1    
-> 기간 : 2021.02 ~ 2021.04 (3개월)   
-> 기술 스택 : Python3 / Tensorflow  
+3. Prediction of Material Strength    
+> UC Irvine Machine Learning Repository를 사용하여 콘크리트 `강도 예측`   
+> 기술 스택 : Python3 / Tensorflow    
 > [프로젝트 상세 설명](https://github.com/P-uyoung/AI-research/tree/master/Concrete) 참고
 <br/>
+
+4. Estimation of CNT Dispersion   
+> CNN 모델을 이용하여 CNT 분산성 `이미지 분석`   
+> 기술 스택 : Python3 / Tensorflow    
+> *진행 중*
 
 ## 5. Publication List 📗 
 1. **Machine Learning Based Reactivity Prediction of Fly Ash Type F Produced From South Korea**
@@ -112,13 +114,11 @@
 <br/>
 
 ## Awards and Recognitions 🎁
-1. 앰비언트 AI 컴피티션 대회 3등 입상
-> 수상날짜 : 2022-09
-> 주최 : 서울대학교 데이터사이언스 대학원
+1. 앰비언트 AI 컴피티션 대회 3등 입상   
+> (2022-09) 서울대학교 데이터사이언스 대학원  
 
-2. 우수 강의 조교상
-> 수상날짜 : 2022-08
-> 주최 : 서울대학교 건설환경공학부
+2. 우수 강의 조교상   
+> (2022-08) 서울대학교 건설환경공학부  
 <br/>
 
 ## Interests 💪
