@@ -56,12 +56,12 @@
 > UC Irvine Machine Learning Repository를 사용하여 콘크리트 `강도 예측`   
 > 기술 스택 : Python3 / Tensorflow    
 > [프로젝트 상세 설명](https://github.com/P-uyoung/AI-research/tree/master/Concrete) 참고
-<br/>
 
 4. Estimation of CNT Dispersion   
 > CNN 모델을 이용하여 CNT 분산성 `이미지 분석`   
 > 기술 스택 : Python3 / Tensorflow    
 > *진행 중*
+<br/>
 
 ## 5. Publication List 📗 
 1. **Machine Learning Based Reactivity Prediction of Fly Ash Type F Produced From South Korea**
